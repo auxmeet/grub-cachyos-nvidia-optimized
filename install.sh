@@ -5,4 +5,5 @@ RED='\033[0;31m'
 NC='\033[0m'
 echo -e "${YELLOW}Copy grub settings...${NC}"
 sudo cp -r -v grub /etc/default/
+sudo grub-mkconfig -o /boot/grub/grub.cfg
 echo -e "${GREEN}✓ All set!${NC}"
