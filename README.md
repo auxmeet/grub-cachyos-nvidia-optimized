@@ -1,8 +1,8 @@
-# grub-optimization-nvidia
+# grub-nvidia
 my settings for grub
  ```bash
-git clone https://github.com/auxmeet/grub-optimization-nvidia.git 
-cd grub-optimization-nvidia
+git clone https://github.com/auxmeet/grub-nvidia.git 
+cd grub-nvidia
 chmod +x install.sh
 sudo ./install.sh
 ```
