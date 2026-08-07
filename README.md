@@ -1,7 +1,5 @@
 # grub-cachyos-optimized
-THIS IS ONLY FOR CACHYOS
-
-my settings for grub
+!! THIS IS ONLY FOR CACHYOS !!
  ```bash
 git clone https://github.com/auxmeet/grub-cachyos-optimized.git 
 cd grub-cachyos-optimized
