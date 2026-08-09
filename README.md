@@ -1,5 +1,5 @@
 # grub-cachyos-nvidia-optimized
-!! THIS IS ONLY FOR CACHYOS AND NVIDIA !!
+## Use only [CachyOS](https://cachyos.org/download/) or other Arch-based
  ```bash
 git clone https://github.com/auxmeet/grub-cachyos-nvidia-optimized.git 
 cd grub-cachyos-nvidia-optimized
