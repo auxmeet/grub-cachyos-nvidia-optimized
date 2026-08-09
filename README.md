@@ -1,5 +1,5 @@
 # grub-cachyos-nvidia-optimized
-Optimized grub settings for nvidia
+Nvidia Grub Settings
 ## Use only [CachyOS](https://cachyos.org/download/) or other Arch-based
  ```bash
 git clone https://github.com/auxmeet/grub-cachyos-nvidia-optimized.git 
