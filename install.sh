@@ -1,9 +1,10 @@
 #!/bin/bash
-GREEN='\033[0;32m'
-YELLOW='\033[1;33m'
-RED='\033[0;31m'
-NC='\033[0m'
-echo -e "${YELLOW}Copy grub settings...${NC}"
+
+# Copy grub settings
+echo -e "Copy grub settings..."
 sudo cp -r -v grub /etc/default/
+
+# Grub regenerate
 sudo grub-mkconfig -o /boot/grub/grub.cfg
-echo -e "${GREEN}✓ All set!${NC}"
+
+echo -e "✓ All set!"
